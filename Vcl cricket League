@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>VCL</title>
+</head<style>
+  body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+
+  h1 {
+    color: green;
+  }
+
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    background: white;
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+
+  th {
+    background-color: green;
+    color: white;
+  }
+</style>>
+<body>
+ <div style="background:green; padding:10px;">
+  <a href="index.html" style="color:white; margin:10px;">Home</a>
+  <a href="fixtures.html" style="color:white; margin:10px;">Fixtures</a>
+  <a href="points.html" style="color:white; margin:10px;">Points Table</a>
+</div>
+  <a href="#" style="color:white; margin:10px;">Home</a>
+  <a href="#" style="color:white; margin:10px;">Fixtures</a>
+  <a href="#" style="color:white; margin:10px;">Points Table</a>
+</div>
+
+  <h1>🏏 Cricket Tournament</h1>
+
+  <h2>📅 Fixtures</h2>
+
+<div style="background:white; margin:10px auto; padding:10px; width:80%; border-radius:10px;">
+  🏏 Team A vs Team B <br>
+  📅 10 April
+</div>
+
+<div style="background:white; margin:10px auto; padding:10px; width:80%; border-radius:10px;">
+  siam vs Team D <br>
+  📅 11 April
+</div><h2>🏏 Teams</h2>
+
+<div style="background:white; margin:10px auto; padding:10px; width:80%; border-radius:10px;">
+  🔵 Team A<br>
+  🔴 Team B<br>
+  🟢 Team C<br>
+  🟡 Team D
+</div>
+
+  <h2>Points Table</h2>
+
+  <table border="1">
+    <tr>
+      <th>Team</th>
+      <th>Match</th>
+      <th>Win</th>
+      <th>/th>
+    </tr>
+    <h2>📊 Points Table</h2>
+
+<table>
+  <tr>
+    <th>Team</th>
+    <th>Match</th>
+    <th>Win</th>
+    <th>Points</th>
+  </tr>
+  
+  <tr>
+    <td>Team A</td>
+    <td>2</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  
+  <tr>
+    <td>Team B</td>
+    <td>2</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  
+  <tr>
+    <td>Team C</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr><!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body>
+  
+</body>
+
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Fixtures</title>
+</head>
+<body>
+
+<h1>📅 Fixtures</h1>
+
+<p>🏏 Team A vs Team B - 10 April</p>
+<p>🏏 Team C vs Team D - 11 April</p>
+<p>🏏 Team A vs Team C - 12 April</p>
+
+<br>
+<a href="index.html">⬅ Back to Home</a>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body>
+  
+</body>
+
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Points Table</title>
+</head>
+<body>
+
+<h1>📊 Points Table</h1>
+
+<table border="1" cellpadding="10">
+  <tr>
+    <th>Team</th>
+    <th>Match</th>
+    <th>Win</th>
+    <th>Points</th>
+  </tr>
+
+  <tr>
+    <td>Team A</td>
+    <td>2</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+
+  <tr>
+    <td>Team B</td>
+    <td>2</td>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+</table>
+
+<br>
+<a href="index.html">⬅ Back to Home</a>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Points Table</title>
+</head>
+<body>
